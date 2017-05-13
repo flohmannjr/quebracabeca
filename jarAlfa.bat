@@ -1,0 +1,1 @@
+jar -cfM Alfa.jar META-INF/MANIFEST.MF edu/flj/quebracabeca/Alfanumericos/*.class
